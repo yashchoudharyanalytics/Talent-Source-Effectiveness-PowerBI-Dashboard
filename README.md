@@ -79,3 +79,17 @@ All DAX measures used in the report are included in the `/DAX` folder:
 /Images
 /DAX
 README.md
+
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file from `/PBIX`
+2. Download the dataset from `/Dataset`
+3. Open the report in Power BI Desktop
+4. Explore and customize the dashboard
+
+---
+
+
+
