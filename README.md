@@ -74,3 +74,8 @@ All DAX measures used in the report are included in the `/DAX` folder:
 ---
 
 ## 📁 Repository Structure
+/Dataset
+/PBIX
+/Images
+/DAX
+README.md
